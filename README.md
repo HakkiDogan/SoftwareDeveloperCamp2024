@@ -4,7 +4,7 @@ This repository contains the assignment codes for the Software Developer Camp 20
 
 ## Course Information
 
-- **Course Instructor:** Engin Demiroð
+- **Course Instructor:** Engin DemiroÄŸ
 - **Course Link:** [Kodlama.io - Software Developer Camp 2024 (C#)](https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi-2024-1)
 
 
